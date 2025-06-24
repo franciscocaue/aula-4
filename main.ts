@@ -1,4 +1,3 @@
-basic.showIcon(IconNames.Heart)
 basic.forever(function () {
     basic.showNumber(1)
     basic.pause(1000)
